@@ -1,6 +1,6 @@
 char	*ft_strlowcase(char *str);
 
-char	*ft_strcapitalize(char *str)
+char	*my_strcapitalize(char *str)
 {
 	int	i;
 
