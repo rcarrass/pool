@@ -22,14 +22,3 @@ char	*ft_strrev(char *str)
 	return (str);
 }
 
-int		main(int ac, char*av[])
-{
-	(void)ac;
-	(void)av;
-	char str[] = "abc"; 
-	char str2[] = "abcd"; 
-
-	printf("%s\n", ft_strrev(str));
-	printf("%s", ft_strrev(str2));
-	return 0;
-}
