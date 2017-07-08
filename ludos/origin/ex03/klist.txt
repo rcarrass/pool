@@ -1,0 +1,8 @@
+Credentials cache: API:3B212223-0BE4-41A6-85D3-EA36B19EC930
+        Principal: lcecile-@42.FR
+
+  Issued                Expires               Principal
+Jul  6 15:57:58 2017  Jul 13 15:57:58 2017  krbtgt/42.FR@42.FR
+Jul  6 15:57:59 2017  Jul 13 15:57:58 2017  ldap/ldap-proxy.42.fr@42.FR
+Jul  6 15:58:00 2017  Jul 13 15:57:58 2017  HTTP/student-storage-1.42.fr@42.FR
+Jul  6 17:23:28 2017  Jul 13 15:57:58 2017  host/vgs-fn1.42.fr@42.FR
