@@ -1,7 +1,0 @@
-Credentials cache: API:3E852A1F-BD7F-4306-A65C-90E1746CC72B
-        Principal: recarras@42.FR
-
-  Issued                Expires               Principal
-Jul  3 22:21:31 2017  Jul 10 22:21:31 2017  krbtgt/42.FR@42.FR
-Jul  3 22:21:33 2017  Jul 10 22:21:31 2017  ldap/ldap-proxy.42.fr@42.FR
-Jul  3 22:21:33 2017  Jul 10 22:21:31 2017  HTTP/student-storage-1.42.fr@42.FR
